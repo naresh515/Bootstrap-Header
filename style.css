@@ -40,7 +40,7 @@ body {
 }
 
 .text p,
-.dropdown .dropbtn ,
+.dropdown .dropbtn,
 .icon {
     color: wheat;
     font-size: 20px;
@@ -92,7 +92,7 @@ body {
     min-width: 100px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
-    margin-top: 16px;
+    padding: 20px 0px
 }
 
 .dropdown-content a {
@@ -156,7 +156,7 @@ body {
     }
 
     .text p,
-    .dropdown .dropbtn ,
+    .dropdown .dropbtn,
     .icon {
         font-size: 15px;
     }
